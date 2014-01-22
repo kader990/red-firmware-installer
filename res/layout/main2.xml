@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_height="wrap_content"
+	android:layout_width="wrap_content">
+
+	<LinearLayout
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:gravity="center|center_vertical|center_horizontal"
+		android:orientation="vertical">
+
+		<RelativeLayout
+			android:layout_height="220dp"
+			android:layout_width="wrap_content"
+			android:layout_marginLeft="100dp"
+			android:layout_marginRight="100dp"
+			android:layout_gravity="center_horizontal">
+
+			<Button
+				android:layout_width="175dp"
+				android:layout_height="175dp"
+				android:id="@+id/button"
+				android:alpha="0.4"
+				android:layout_centerVertical="true"
+				android:shadowColor="#2D2D2D"
+				android:layout_centerInParent="true"/>
+
+			<ProgressBar
+				android:layout_height="150dp"
+				style="?android:attr/progressBarStyleLarge"
+				android:layout_width="150dp"
+				android:layout_centerInParent="true"
+				android:indeterminateDrawable="@drawable/update"/>
+
+			<ProgressBar
+				android:layout_height="150dp"
+				style="?android:attr/progressBarStyleLarge"
+				android:layout_width="150dp"
+				android:layout_centerInParent="true"/>
+
+		</RelativeLayout>
+
+		<TextView
+			android:layout_width="150dp"
+			android:layout_height="wrap_content"
+			android:id="@+id/hello"
+			android:layout_centerVertical="true"
+			android:textIsSelectable="true"
+			android:textSize="16sp"
+			android:layout_marginTop="20dp"
+			android:gravity="center_horizontal"/>
+
+		<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="@string/info"
+			android:layout_centerVertical="true"
+			android:textSize="20sp"
+			android:layout_marginTop="20dp"
+			android:gravity="center_horizontal"/>
+
+	</LinearLayout>
+
+</RelativeLayout>
+

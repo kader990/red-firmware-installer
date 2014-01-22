@@ -1,21 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="hello">Hello World, MainActivity!</string>
-    <string name="app_name">©Google Framework Installer</string>
-   <string name="install">Install</string>
-   <string name="info">Make sure your battery charge is now above 20%\nThen press the button to initialize\n</string>
-	<string name="agree">I have granted root access and I agree to these terms</string>
-	<string name="disagree">I disagree to these</string>
-	<string name="hint">LICENSE AND TERMS</string>
-	<string name="working">WORKING</string>
-	
-	<string name="time">This takes less than 30s</string>
-	<string name="process">●COPY FILES●\n●SET PERMISSION●\n●RUN SCRIPTS●</string>
-	
-	
+    <string name="app_name">©Google服务框架</string>
+   <string name="install">安装</string>
+ <string name="info">确认您的设备电量充足\n点击按钮开始安装</string>
+	<string name="agree">我已经授权ROOT权限且同意以上条款</string>
+	<string name="working">正在处理</string>
+	<string name="hint">条款与协议</string>
+ 	<string name="time">此步骤最多需要30秒</string>
+ 	<string name="disagree">我不同意以上条款</string>
 <string name="license">
-\n
+\nRED™-QQ群:
+\n 288398768
+\n技术支持:
+\n 安热论坛(bbs.apkhot.com)
+\n 网侠论坛(netxia.cn)
+\n ©Google Code(code.google.com)
+\n知识产权及法律保护:
+\n Apache2.0(www.apache.com)
+\n负责参与:
+\n Harry(@PwnerHarry)
+\n iFasWind(@iFasWind)
+\n Only(@酷p_沦b)
+\n IM(@itman1989)
+\n 九龙(@梦回_九龙朝)
+\n以下为协议具体内容:
+\n\n\n
 Apache License
 \nVersion 2.0, January 2004
 \nhttp://www.apache.org/licenses/
@@ -74,5 +83,15 @@ Apache License
 \n		9. Accepting Warranty or Additional Liability.
 \n	While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
 \n
-\n		END OF TERMS AND CONDITIONS</string>
-   </resources>
+\n		END OF TERMS AND CONDITIONS
+
+
+
+</string>
+ 
+ 
+ 
+ 
+ 
+ 
+ </resources>
