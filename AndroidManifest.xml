@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="mod.redemptionmod.installer.spice"
     android:versionCode="1"
-    android:versionName="0.01Alpha" 
+    android:versionName="0.02Alpha" 
 android:screenOrientation="portrait">
     <uses-sdk 
         android:minSdkVersion="11" 
